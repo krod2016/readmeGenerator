@@ -4,7 +4,7 @@
 This app is to create a README for a project of your choosing.
 
 ![terminal - homepage](./assets/images/terminal.png)
-Here is a screenshot of the terminal being used to create the README. To see a sample README, please see 'sampleREADME' in this repository.
+Here is a screenshot of the terminal being used to create the README. To see a sample README, please see '.newREADME.md' in this repository.
 
 ## Technologies Used:
 * Inqurier

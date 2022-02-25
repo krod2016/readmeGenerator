@@ -3,7 +3,7 @@
 ## Description
 This app is to create a README for a project of your choosing.
 
---insert screenshot here--
+![terminal - homepage](./assets/images/terminal.png)
 Here is a screenshot of the terminal being used to create the README. To see a sample README, please see 'sampleREADME' in this repository.
 
 ## Technologies Used:
@@ -21,7 +21,7 @@ Here is a screenshot of the terminal being used to create the README. To see a s
 
 ## Links
 * GitHub: https://github.com/krod2016/readmeGenerator
-* Video Walkthrough: 
+* Video Walkthrough: https://drive.google.com/file/d/1F52wejmGG-0MD84acEUbnmEOcoj6SSKI/view
 
 ## Made By
 Katrina Rodriguez

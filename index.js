@@ -130,7 +130,7 @@ const writeToFile = (data) => {
     fs.writeFile('.newREADME.md', data, err => {
         if (err) 
             throw err;
-           console.log("README file has been created!");
+           console.log("sampleREADME file has been created!");
 });
 }
 
